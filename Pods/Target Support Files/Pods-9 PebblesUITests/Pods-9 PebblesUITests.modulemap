@@ -1,0 +1,6 @@
+framework module Pods_9_PebblesUITests {
+  umbrella header "Pods-9 PebblesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

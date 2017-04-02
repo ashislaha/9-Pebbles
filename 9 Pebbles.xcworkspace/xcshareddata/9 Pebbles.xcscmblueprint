@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C29C4FE4593001F64C56D3BF88A740A082975D1F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C29C4FE4593001F64C56D3BF88A740A082975D1F" : 9223372036854775807,
+    "90570ED9589D16323B02D0382F54B2939F3278B1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "91BDDC24-B385-4E32-8911-D95C434CCC8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C29C4FE4593001F64C56D3BF88A740A082975D1F" : "9%20Pebbles\/",
+    "90570ED9589D16323B02D0382F54B2939F3278B1" : "9%20Pebbles\/9%20Pebbles.xcodeproj\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "9 Pebbles",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "9 Pebbles.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/ashislaha\/9-pebbles.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90570ED9589D16323B02D0382F54B2939F3278B1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ashislaha\/9-Pebbles.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C29C4FE4593001F64C56D3BF88A740A082975D1F"
+    }
+  ]
+}
