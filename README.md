@@ -1,6 +1,8 @@
 9-Pebbles :
 iTunes link : https://itunes.apple.com/in/app/9-pebbles/id1191090546?mt=8
 
+youtube link : https://www.youtube.com/watch?v=h4ZnYwhbOHI&t=27s
+
 Description : This is very simple game played by 2 players. You can play offline 2 players or play with Computer.
 
 Authentication : Using Google Firebase .
